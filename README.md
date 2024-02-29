@@ -1,7 +1,12 @@
-### Hi there I'm Dz.dev 👋
+### Hi there! I'm Darwin Jordan also known as Dz.dev 👋 
 
-- 👀 I’m interested in Web Development/Software and Full Stack Development.
-- 📫 How to reach me www.linkedin.com/in/darwinbjordan
+const Dz.dev = {
+  code: ["javascript", "typescript", "java", "c++", "php", "python"],
+  framework-libraries: ["react", "vite", "tailwind", "express", "node", "jquery", tailwind, bootstrap],
+  database: ["postgressql", "mysql"],
+  tools: ["github", "git", "figma", "canva", "postman", "visual studio code"],
+  school: ["bulacan state university"],
+}
 
 
 
