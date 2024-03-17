@@ -2,7 +2,7 @@
 
 ```typescript
 const Dz-dev = {
-code: ["javascript", "typescript", "java", "c++", "php", "python"],
+languages: ["javascript", "typescript", "java", "c++", "php", "python"],
 framework-libraries: ["react", "vite", "tailwind", "express", "node", "jquery", "tailwind", "bootstrap"],
 database: ["postgressql", "mysql"],
 tools: ["github", "git", "figma", "canva", "postman", "visual studio code"],
