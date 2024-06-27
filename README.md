@@ -1,7 +1,7 @@
-### Hi there! I'm Darwin Jordan also known as Dz.dev 👋 
+### Hi there! I'm Darwin Jordan also known as Dz.dev 👋
 
-- I'm a React/NextJS Enthusiast.
-- Currently Software Engineer and System Developer.
+- I'm a React/NextJS Enthusiast. 💯
+- Currently Software Engineer and System Developer. 👨‍💻
 
 ```typescript
 const Dz-dev = {
