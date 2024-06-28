@@ -13,7 +13,7 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 ```typescript
 const Dz-dev = {
 languages: ["javascript", "typescript", "java"],
-framework: ["reactjs", "nextjs", "tailwind", "expressjs", "nodejs", "jquery", "bun", "elysia"],
+framework: ["reactjs", "nextjs", "expressjs", "nodejs", "jquery", "bun", "elysia"],
 css-framework: ["tailwind", "bootstrap"],
 database: ["postgresql", "mysql"],
 authentication: ["supabase", "kinde"],
