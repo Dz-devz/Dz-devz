@@ -4,7 +4,7 @@
 
 ## Digital Footprint of My Journey as a Developer 👨‍💻
 
-I'm a Passoiniate Full Stack Developer dedicated to honing my skills through continual growth and improvement
+I'm a Passionate Full Stack Developer dedicated to honing my skills through continual growth and improvement
 With a head full of Profound ideas, I'm on a journey to turn concept and ideas into reality through code.
 
 Outside of coding, I create music to nurture my artistic side and prevent burnout.
