@@ -15,12 +15,13 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 ```typescript
 const Dz-dev = {
 languages: ["javascript", "typescript", "java"],
-framework: ["reactjs", "nextjs", "expressjs", "nodejs", "spring", "jquery", "bun", "elysia"],
+mobile-development: ["android studio", "react-native"],
+framework: ["spring", "jquery", "reactjs", "nextjs", "expressjs", "nodejs", "bunjs", "honojs"],
 css-framework: ["tailwind", "bootstrap"],
 database: ["postgresql", "mysql"],
 authentication: ["supabase", "kinde"],
 orm: ["prisma"],
-tools: ["github", "git", "figma", "canva", "postman", "visual studio code"],
+tools: ["github", "git", "figma", "canva", "postman", "visual studio code", "spring tool suite"],
 graduated@: ["bulacan state university"],
 };
 ```
