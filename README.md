@@ -1,5 +1,12 @@
 # Hi there! I'm Darwin Jordan also known as Dz.dev 👋
 
+<h3 align="center">Dz.dev</h3>
+<p align="center">
+  <em>"Mistakes mean progress. So when you encounter a new error, don't feel discouraged it's a step forward to a beautiful journey."</em>
+</p>
+
+---
+
 **`DevArtisan (Developer/Artist)`**
 
 ## Digital Footprint of My Journey as a Developer 👨‍💻
