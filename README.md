@@ -17,7 +17,7 @@ With a head full of Profound ideas, I'm on a journey to turn concept and ideas i
 Outside of coding, I create music to nurture my artistic side and prevent burnout.
 
 - I'm a `React/NextJS` Enthusiast. 💯
-- Currently `Software Engineer` and `System Developer.` 👨‍💻
+- A `Software Engineer` 👨‍💻
 
 ```typescript
 const Dz-dev = {
@@ -27,7 +27,7 @@ framework: ["spring", "jquery", "reactjs", "nextjs", "expressjs", "nodejs", "bun
 css-framework: ["tailwind", "bootstrap"],
 database: ["postgresql", "mysql"],
 authentication: ["supabase", "kinde"],
-orm: ["prisma"],
+orm: ["prisma", "drizzle"],
 tools: ["github", "git", "figma", "canva", "postman", "visual studio code", "spring tool suite"],
 graduated@: ["bulacan state university"],
 };
