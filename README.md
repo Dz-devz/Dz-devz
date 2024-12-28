@@ -20,7 +20,7 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 - A `Software Engineer` 👨‍💻
 
 ```typescript
-const Dz-dev = {
+const DzDev = {
 languages: ["javascript", "typescript", "java"],
 mobile-development: ["android studio", "react-native"],
 framework: ["spring", "jquery", "reactjs", "nextjs", "expressjs", "nodejs", "bunjs", "honojs"],
