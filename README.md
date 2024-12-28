@@ -2,7 +2,7 @@
 
 <h3 align="center">Dz.dev</h3>
 <p align="center">
-  <em>"Mistakes mean progress."</em>
+  <em>"Mistakes mean progress, it's a step forward to a beautiful journey."</em>
 </p>
 
 ---
