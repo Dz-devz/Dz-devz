@@ -17,7 +17,7 @@ With a head full of Profound ideas, I'm on a journey to turn concept and ideas i
 Outside of coding, I create music to nurture my artistic side and prevent burnout.
 
 - I'm a `React/NextJS` Enthusiast. 💯
-- A `Software Engineer` 👨‍💻
+- A `Full Stack Developer` & `Software Engineer` 👨‍💻
 
 ```typescript
 const DzDev = {
