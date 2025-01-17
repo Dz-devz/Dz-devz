@@ -29,6 +29,7 @@ database: ["postgresql", "mysql"],
 authentication: ["supabase", "kinde"],
 orm: ["prisma", "drizzle"],
 tools: ["github", "git", "figma", "canva", "postman", "visual studio code", "spring tool suite"],
+deployment: ["vercel", "railway", "neon"],
 graduated@: ["bulacan state university"],
 };
 ```
