@@ -18,6 +18,8 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 
 - I'm a `React/NextJS` Enthusiast. 💯
 - A `Full Stack Developer` & `Software Engineer` 👨‍💻
+- Currently learning `AWS` 🚀☁️📚
+
 
 ```typescript
 const DzDev = {
