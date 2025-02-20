@@ -31,7 +31,8 @@ database: ["postgresql", "mysql"],
 authentication: ["supabase", "kinde"],
 orm: ["prisma", "drizzle"],
 tools: ["github", "git", "figma", "canva", "postman", "visual studio code", "spring tool suite"],
-deployment: ["vercel", "railway", "neon"],
+deployment: ["vercel", "railway", "neon", "docker"],
+cloud-development: ["aws"],
 graduated@: ["bulacan state university"],
 };
 ```
@@ -61,6 +62,8 @@ graduated@: ["bulacan state university"],
 <img align="left" alt="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 <img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
 <br />
 <br />
 
