@@ -31,7 +31,7 @@ database: ["postgresql", "mysql", "supabase"],
 authentication: ["jwt", "kinde", "firebase"],
 orm: ["prisma", "drizzle"],
 tools: ["github", "git", "figma", "canva", "postman", "visual studio code", "spring tool suite"],
-cloud and devops: ["aws", "render", "vercel", "netlify", "railway", "neon", "docker", "kubernetes"],
+cloud-and-devops: ["aws", "render", "vercel", "netlify", "railway", "neon", "docker", "kubernetes"],
 graduated@: ["bulacan state university"],
 };
 ```
