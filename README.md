@@ -1,5 +1,9 @@
 # Hi there! I'm Darwin Jordan also known as Dz.dev 👋
 
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/9e15a553-25fb-4416-9251-91ca3f190a89" alt="Dz dev logo" width="150" />
+</p>
+
 <h3 align="center">Dz.dev</h3>
 <p align="center">
   <em>"Mistakes mean progress, it's a step forward to a beautiful journey."</em>
