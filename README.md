@@ -24,7 +24,7 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 - A `Full Stack Developer` & `Software Engineer` 👨‍💻
 - Currently learning `AWS` 🚀☁️📚
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dz-devz&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dz-devz&card_width=1050&theme=github-dark)](https://git.io/streak-stats)
 
 ```typescript
 const DzDev = {
