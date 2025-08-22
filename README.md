@@ -21,16 +21,16 @@ With a head full of Profound ideas, I'm on a journey to turn concept and ideas i
 Outside of coding, I create music to nurture my artistic side and prevent burnout.
 
 - I'm a `React/NextJS` Enthusiast. 💯
-- A `Full Stack Developer` & `Software Engineer` 👨‍💻
+- A `Full Stack Developer/` & `Software Engineer` 👨‍💻
 - Currently learning `AWS` 🚀☁️📚
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dz-devz&card_width=1050&theme=github-dark)](https://git.io/streak-stats)
 
 ```typescript
 const DzDev = {
-languages: ["javascript", "typescript", "java"],
-mobile-development: ["android studio", "react-native"],
-framework: ["spring", "jquery", "reactjs", "nextjs", "expressjs", "nodejs", "bunjs", "honojs"],
+languages: ["javascript", "typescript"],
+mobile-development: ["react-native"],
+framework: ["reactjs", "nextjs", "expressjs", "nodejs", "bunjs", "honojs"],
 css-framework: ["tailwind", "bootstrap"],
 database: ["postgresql", "mysql", "supabase"],
 authentication: ["jwt", "kinde", "firebase"],
@@ -51,8 +51,6 @@ graduated@: ["bulacan state university"],
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Prisma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
