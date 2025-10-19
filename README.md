@@ -23,7 +23,7 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 - I'm a `React/NextJS` Enthusiast. 💯
 - A `Full Stack Developer/` & `Software Engineer` 👨‍💻
 - Passionate about building cross-platform apps with `React Native` 📱
-- Currently learning `AWS` 🚀☁️📚
+- Currently learning `Go` 🐹
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dz-devz&card_width=1050&theme=github-dark)](https://git.io/streak-stats)
 
