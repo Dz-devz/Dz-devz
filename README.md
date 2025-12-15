@@ -25,8 +25,6 @@ Outside of coding, I create music to nurture my artistic side and prevent burnou
 - Passionate about building cross-platform apps with `React Native` 📱
 - Currently learning `Go` 🐹
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Dz-devz&card_width=1050&theme=github-dark)](https://git.io/streak-stats)
-
 ```typescript
 const DzDev = {
 languages: ["javascript", "typescript"],
